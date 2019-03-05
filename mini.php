@@ -6,7 +6,7 @@
 ##  	Versi     	: 1.0									   
 ##  	Team       	: Republic Cyber Education				   
 ##  	Site	    	: http://naenroo-ex.blogspot.com/
-##		Facebook    : https://www.facebook.com/mini.phtml								   
+##		Faadawddddddddddacebook    : https://www.facebook.com/mini.phtml								   
 ###########################################################
 echo '<!DOCTYPE HTML>
 <html>
